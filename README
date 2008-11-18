@@ -13,3 +13,7 @@ Extract lists of new or popular books from the AADL catalog and format them as p
 tools/
 
 Support tools for the above, mostly simple scripts to extract data from the catalog, transform it by coordinating with other book information sources, and generate reports for display.  Nothing fancy, mostly in shell for now.
+
+api/
+
+documentation for any APIs or file formats that I run across, either RSS or SOPAC or (heaven forbid) screen scraping
